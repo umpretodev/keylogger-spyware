@@ -15,10 +15,10 @@ O projeto segue a seguinte arquitetura.
 ``` text
 📁 src
 ├── 📁 repositories
-│   └── 📝 keylogger_repository.py  # funções com interações com o buffer.txt e enviar requests para o servidor http
+│   └── 📝 keylogger_repository.py  # Funções com interações com o buffer.txt
 │  
 ├── 📁 services
-│   └── 📝 keylogger_service.py  # funções 
+│   └── 📝 keylogger_service.py  # Funções que integração com o HTTP Server, enviando informações do buffer.txt
 │  
 └── 📝 main.py
 ```
