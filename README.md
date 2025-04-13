@@ -18,7 +18,7 @@ O projeto segue a seguinte arquitetura.
 │   └── 📝 keylogger_repository.py  # funções com interações com o buffer.txt e enviar requests para o servidor http
 │  
 ├── 📁 services
-│   └── 📄 keylogger_service.py  # funções 
+│   └── 📝 keylogger_service.py  # funções 
 │  
 └── 📝 main.py
 ```
